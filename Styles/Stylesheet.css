@@ -4,7 +4,7 @@ Body{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .Header{
-    background-color: white; 
+    background-color: black; 
     color: whitesmoke;
     height: 100px;
     line-height: 100px;
@@ -14,7 +14,7 @@ Body{
 
 }
 .lists{
-    background-color: white;
+    background-color: lightblue;
     color:black;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -23,7 +23,7 @@ Body{
 }
 .footer{
     height: 25px;
-    background-color: white;
+    background-color: gray;
     color: black;
     position: fixed;
     bottom: 0px;
@@ -33,7 +33,7 @@ Body{
     padding-left: 600px;
 }
 .graph{
-background-color: white;
+background-color: lightgray;
 Padding-top: 10px;
 padding-left: 25px;
 }
